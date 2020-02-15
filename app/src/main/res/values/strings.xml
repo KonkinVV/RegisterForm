@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="no_entered_text_toast">Input data</string>
+</resources>
